@@ -141,3 +141,6 @@ button:hover {
 .half {
 	width: 425px;
 }
+p {
+	font-family: 'Roboto', sans-serif;
+}
